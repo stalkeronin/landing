@@ -1,0 +1,28 @@
+p {
+    font-size: 16px;
+    font-style: italic;
+    color: #ffffff;
+}
+h1 {
+    text-align: center;
+}
+.wrapp {
+    background: #901f5d;
+    max-width: 1440px;
+}
+ul {
+    text-decoration: none;
+}
+td {
+    border-style: dashed;
+    border-color: blue;
+}
+tbody {
+    display: table;
+    position: relative;
+    right: 0;
+}
+
+img {
+    max-width: 1200px;
+}
